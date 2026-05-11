@@ -26,3 +26,5 @@ Copy the example.js file, insert your RapidAPI key, and run:
 
 🔗 API Documentation
 For Python, PHP, Ruby, or cURL examples, check the official documentation on the RapidAPI platform.
+
+www.jupiterti.com
